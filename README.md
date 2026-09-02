@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
 
-<!--
-**RISHIPATWA/RISHIPATWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Rishi Patwa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 B.Tech CSE (AIML) Student | 🤖 Machine Learning Enthusiast | 🧠 DSA & Competitive Programming
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=RISHIPATWA&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/RISHIPATWA?label=Followers&style=flat" alt="Followers"/>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering (AIML)**
+- 📚 Currently in **3rd Year**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 💻 Strong interest in **C++, Python, Java and SQL**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🏆 Solved **700+ coding problems**
+- 🚀 Building projects in **Machine Learning and Software Development**
+- 🌱 Currently learning more about **ML, AI and Advanced DSA**
+- ⚡ I love solving problems and building useful projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+
+</p>
+
+### 🤖 Machine Learning & Data Science
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+
+</p>
+
+**Libraries & Concepts**
+
+```text
+NumPy
+Pandas
+Scikit-learn
+Matplotlib
+Data Preprocessing
+Classification
+Regression
+Decision Trees
+Random Forest
+Naive Bayes
+MLP
+PCA
+Model Evaluation
